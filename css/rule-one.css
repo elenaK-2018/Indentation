@@ -1,0 +1,27 @@
+.rule-one__img {
+    max-width: 560px;
+    display: inline-block;
+}
+
+.rule-one__img-one {
+    margin-right: 25px;
+    margin-bottom: 30px;
+}
+
+.rule-one__text-block {
+    max-width: 480px;
+    display: inline-block;
+    vertical-align: top;
+}
+
+.rule-one__text:not(:last-child) {
+    margin-bottom: 30px;
+}
+
+.rule-one__text-block_right {
+    max-width: 490px;
+}
+
+.rule-one__text-block_left {
+    margin-right: 30px;
+}

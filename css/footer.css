@@ -1,0 +1,32 @@
+.footer {
+    background-color: #f1f1f1;
+    border-bottom: 1px solid #f1f1f1;
+}
+
+.footer__subtitle {
+    padding-top: 25px;
+}
+
+.footer__list {
+    padding-left: 20px;
+    margin-bottom: 30px;
+}
+
+.footer__item {
+    margin-bottom: 10px;
+}
+
+.footer__item:last-child {
+    margin-bottom: 0;
+}
+
+.footer__item:before {
+    content: "-";
+    padding-right: 5px;
+    margin-bottom: 10px;
+}
+
+.footer__description {
+    margin-bottom: 25px;
+    padding-left: 15px;
+}

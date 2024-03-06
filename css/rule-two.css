@@ -1,0 +1,34 @@
+.rule-two__figure {
+    margin-bottom: 30px;
+}
+
+.rule-two__figcaption_border-block {
+    margin-bottom: 30px;
+}
+
+.rule-two__img {
+    padding-top: 30px;
+    margin: 0 auto;
+}
+
+.rule-two__border-block {
+    border: 1px solid #5e5e5e;
+}
+
+.rule-two__img_border-block {
+    padding-top: 0;
+}
+
+.rule-two__text {
+    color: #5e5e5e;
+    padding: 15px 30px;
+}
+
+.rule-two__description-item {
+    margin-bottom: 30px;
+}
+
+.rule-two__img_header {
+    margin-bottom: 30px;
+    padding-top: 0;
+}

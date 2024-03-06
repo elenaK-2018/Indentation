@@ -1,0 +1,19 @@
+.rule-three__description {
+    margin-bottom: 30px;
+}
+
+.rule-three__figure:not(:last-child) {
+    margin-bottom: 30px;
+}
+
+.rule-three__figcaption {
+    margin-bottom: 30px;
+}
+
+.rule-three__img {
+    margin: 0 auto;
+}
+
+.rule-three__img_html {
+    padding-top: 30px;
+}

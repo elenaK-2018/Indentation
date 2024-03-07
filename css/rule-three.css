@@ -12,8 +12,9 @@
 
 .rule-three__img {
     margin: 0 auto;
+    margin-bottom: 30px;
 }
 
-.rule-three__img_html {
-    padding-top: 30px;
+.rule-three__img:last-child {
+    margin-bottom: 0;
 }

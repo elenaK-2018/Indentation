@@ -1,10 +1,10 @@
 @import "normalize.css";
 @import "font.css";
 @import "default.css";
-@import "header.css";
+@import "article-block.css";
 @import "nav.css";
 @import "rule-one.css";
 @import "rule-two.css";
 @import "rule-three.css";
-@import "footer.css";
+@import "last-block.css";
 

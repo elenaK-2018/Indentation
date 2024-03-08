@@ -1,14 +1,8 @@
-.last-block {
-    background-color: #f1f1f1;
-    border-bottom: 1px solid #f1f1f1;
-}
-
 .last-block__title {
     padding-top: 25px;
 }
 
 .last-block__list {
-    padding-left: 15px;
     margin-bottom: 30px;
 }
 
@@ -22,11 +16,5 @@
 
 .last-block__item:before {
     content: " — ";
-    padding-right: 5px;
     margin-bottom: 10px;
-}
-
-.last-block__text {
-    margin-bottom: 25px;
-    padding-left: 15px;
 }

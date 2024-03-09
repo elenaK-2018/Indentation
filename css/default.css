@@ -78,7 +78,7 @@ iframe {
     margin: 0 auto;
 }
 
-.block {
+.block:not(:last-child) {
     margin-bottom: 50px;
 }
 
